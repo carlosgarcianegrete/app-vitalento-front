@@ -4,6 +4,9 @@ Este proyecto se inició con [Create React App](https://github.com/facebook/crea
 
 ## Available Scripts
 
+### `npm install`
+Ejecutar comando en caso de que las librías, dependencias no estén todos incluidos
+
 El proyecto para ejecutar en ambiente de desarrollo DEV:
 
 ### `npx webpack-dev-server -d`
@@ -16,6 +19,3 @@ Ejecuta la aplicación para convertirlo productivo.
 
 ### `npx webpack -d`
 Ejecuta la aplicación para convertirlo dev.
-
-### `npm install`
-Ejecutar comando en caso de que las librías, dependencias no estén todos incluidos
